@@ -1,4 +1,4 @@
-# Acer-TraveMate-X40-Hackintosh
+# Acer-TravelMate-X40-Hackintosh
 宏碁墨舞x40的opencore引导驱动
 
 经测试系统：10.14.6、10.15.5、10.15.6
